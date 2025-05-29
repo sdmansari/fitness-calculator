@@ -1,0 +1,9 @@
+# Fitness Calculator Hub robots.txt
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://fitcalchub.com/sitemap.xml
+
+# Crawl delay
+Crawl-delay: 1
